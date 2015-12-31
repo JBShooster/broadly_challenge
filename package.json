@@ -1,0 +1,11 @@
+{
+  "name": "broadly",
+  "version": "1.0.0",
+  "description": "My attempt at Broadly's coding challenge",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joel Shooster",
+  "license": "ISC"
+}

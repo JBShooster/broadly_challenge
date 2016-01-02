@@ -7,5 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Joel Shooster",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.0",
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "ineed": "^1.0.4",
+    "request": "^2.67.0"
+  }
 }

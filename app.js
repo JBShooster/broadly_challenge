@@ -67,7 +67,7 @@ function collectStudents(y){
     console.log(studentsAboveTwentyFive);
     console.log("------------------");
     console.log("There were " + rooms + " classes today.");
-    console.log("Today\'s attendance of students older than 25 is " + finalStudentsCount);
+    console.log("Today\'s attendance of students 25 and older is " + finalStudentsCount);
     console.log("The average class-size today was: " + (finalStudentsCount / rooms).toFixed(2) + " students");
   });
 }

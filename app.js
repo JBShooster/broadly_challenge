@@ -43,7 +43,7 @@ function collectStudents(y){
     rooms=0;
     students =[];
 
-    //Students older than 25
+    //Students 25 and older
     studentsAboveTwentyFive = [];
     finalStudentsCount = 0;
 

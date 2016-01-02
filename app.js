@@ -63,7 +63,7 @@ function collectStudents(y){
     }
 
     //Telling the user what they want to know
-    console.log("Students older than 25");
+    console.log("Students 25 and older");
     console.log(studentsAboveTwentyFive);
     console.log("------------------");
     console.log("There were " + rooms + " classes today.");
@@ -84,4 +84,3 @@ function httpGet(url, callback) {
     }
   );
 }
-
